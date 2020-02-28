@@ -1,2 +1,2 @@
 # abdullahmusafir.github.io
-Indian Product List
+Product List
